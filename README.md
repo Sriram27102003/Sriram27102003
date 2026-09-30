@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sriram27102003.github.io/Portfolio/">portfolio</a> ·
-  <a href="https://linkedin.com/in/s-sriram-728945249/">linkedin</a> ·
-  <a href="https://sriram27102003.github.io/Portfolio/Sriram%20Resume%20Revised.pdf">resume</a> ·
-  <a href="mailto:winsriram962@gmail.com">email</a>
+  <a href="https://sriram27102003.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/s-sriram-728945249/">Linkedin</a> ·
+  <a href="https://sriram27102003.github.io/Portfolio/Sriram%20Resume%20Revised.pdf">Resume</a> ·
+  <a href="mailto:winsriram962@gmail.com">E-mail</a>
 </p>
 
 <p align="center">
