@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Activity card will appear after the first workflow run">
+<rect x="1" y="1" width="898" height="118" rx="12" fill="#F3F0E9" stroke="#DCD6CA" stroke-width="1.5"/>
+<text x="36" y="54" font-family="Georgia, serif" font-size="18" fill="#476556">Activity card builds on the first workflow run.</text>
+<text x="36" y="80" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#77736A">Actions tab, Refresh activity card, Run workflow</text>
+</svg>

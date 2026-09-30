@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="900" height="96" role="img" aria-label="Open to full-time roles">
+<style>@media (prefers-reduced-motion:reduce){animate{display:none}}</style>
+<rect x="1" y="1" width="898" height="94" rx="12" fill="#2E4238"/>
+<path class="" d="M14,26 V12 H28 M872,12 H886 V26 M886,70 V84 H872 M28,84 H14 V70" fill="none" stroke="#E0A526" stroke-width="2" stroke-linecap="square"/>
+<circle cx="46" cy="48.0" r="6" fill="#E0A526"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="66" y="44.0" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#F3F0E9">Open to full-time SDE, full-stack and AI/ML roles.</text>
+<text x="66" y="66.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F3F0E9" opacity=".7">Bangalore, Chennai or remote  ·  winsriram962@gmail.com</text>
+</svg>
